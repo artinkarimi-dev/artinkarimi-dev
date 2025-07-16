@@ -1,3 +1,6 @@
+
+<div align='center'>
+
 # 💫 About Me:
 I am a junior frontend developer proficient in HTML, CSS, JavaScript, and Bootstrap, with a strong commitment to mastering React.<br>Driven by a genuine passion for frontend development, I am dedicated to continuously advancing my skills and delivering high-quality, user-centric web applications.<br>My goal is to evolve into a versatile developer capable of creating seamless and responsive digital experiences.
 
@@ -15,4 +18,5 @@ I am a junior frontend developer proficient in HTML, CSS, JavaScript, and Bootst
 ---
 [![](https://visitcount.itsvg.in/api?id=artinkarimi-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+</div>
